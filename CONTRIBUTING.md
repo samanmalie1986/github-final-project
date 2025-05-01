@@ -6,6 +6,8 @@ The following is a set of guidelines for contributing to github final project, w
 
 #### Table Of Contents
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 [Code of Conduct](#code-of-conduct)
 
 [I don't want to read this whole thing, I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
